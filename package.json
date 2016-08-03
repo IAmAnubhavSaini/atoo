@@ -1,6 +1,6 @@
 {
     "name": "atoo",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "array to object | Convert any array to object with/without given key-prefix.",
     "main": "index.js",
     "scripts": {

@@ -10,7 +10,9 @@ Object {0: 1, 1: 2, 2: 3, 3: "a", 7: "b"}
 
 ```
 
-### Takes care of sparse arrays.
+Note: Takes care of sparse arrays too.
+
+### How to use.
 
 ```
 var a = require('atoo');

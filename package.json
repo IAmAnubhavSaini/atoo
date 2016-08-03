@@ -1,0 +1,32 @@
+{
+    "name": "atoo",
+    "version": "1.0.0",
+    "description": "array to object | Convert any array to object with/without given key-prefix.",
+    "main": "index.js",
+    "scripts": {
+        "test": "xo && ava"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IAmAnubhavSaini/atoo.git"
+    },
+    "keywords": [
+        "array to object",
+        "array",
+        "object",
+        "javascript"
+    ],
+    "author": "Anubhav Saini <IAmAnubhavSaini@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/IAmAnubhavSaini/atoo/issues"
+    },
+    "homepage": "https://github.com/IAmAnubhavSaini/atoo#readme",
+    "devDependencies": {
+        "ava": "^0.15.2",
+        "xo": "^0.16.0"
+    },
+    "xo": {
+        "space": 4
+    }
+}
